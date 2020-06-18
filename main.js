@@ -1,5 +1,10 @@
+
+let book=requiere('./book.model.js');
+
 let miLet=12;
 var miVar=20;
+
+
 
 
 function miF(){
